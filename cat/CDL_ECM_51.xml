@@ -1,0 +1,28 @@
+<vbench>
+	<module name="CDL_TransmissionECM_51" cdl_sid="51" j1939_sid= "" enable= "1"  j1939_name="" eddt_version="03" action= "create">
+	<cdl_map param= "CDL_TransmissionECM#1_DeviceID" pid= "80" enable= "1" enable_read= "1" enable_write= "1" value= "510010000400"/>
+	<cdl_map param= "CDL_TransmissionECM#1_EngineSerialNumber" pid= "F810" enable= "0" enable_read= "1" enable_write= "1" value= "3933393939394342"/>
+	<cdl_map param= "CDL_TransmissionECM#1_TransmissionSerialNumber" pid= "F833" enable= "1" enable_read= "1" enable_write= "1" value= "3933393939394342"/>
+	<cdl_map param= "CDL_TransmissionECM#1_ECUSerial_HardwarePartNumber" pid= "F827" enable= "1" enable_read= "1" enable_write= "1" value= "3532433435363737313231313334363638383132"/>
+	<cdl_map param= "CDL_TransmissionECM#1_ECUSoftwarePartNumber" pid= "F814" enable= "1" enable_read= "1" enable_write= "1" value= "31323334353637383149"/>
+	<cdl_map param= "CDL_TransmissionECM#1_ProductID" pid= "F82D" enable= "0" enable_read= "1" value= "5452415330323021"/>
+	<cdl_map param= "PID-0000F023 pid= "F023" enable= "1" enable_read= "1" enable_write= "1" value= "0"/>
+	<cdl_map param= "PID-0000F2FA pid= "F2FA" enable= "1" enable_read= "1" enable_write= "1" value= "0"/>
+	<cdl_map param= "PID-0000004C pid= "4C" enable= "1" enable_read= "1" enable_write= "1" value= "0"/>
+	<cdl_map param= "PID-0000F0AD pid= "F0AD" enable= "1" enable_read= "1" enable_write= "1" value= "0"/>
+	<cdl_map param= "PID-0000F4B2 pid= "F4B2" enable= "1" enable_read= "1" enable_write= "1" value= "0"/>
+	<cdl_map param= "PID-0000F4B5 pid= "F4B5" enable= "1" enable_read= "1" enable_write= "1" value= "0"/>
+	<cdl_map param= "PID-0000F4B6 pid= "F4B6" enable= "1" enable_read= "1" enable_write= "1" value= "0"/>
+	<cdl_map param= "PID-00D100EC pid= "D100EC" enable= "1" enable_read= "1" enable_write= "1" value= "0"/>
+	<cdl_map param= "PID-0000F227 pid= "F227" enable= "1" enable_read= "1" enable_write= "1" value= "0"/>
+	<cdl_map param= "PID-0000004D pid= "4D" enable= "1" enable_read= "1" enable_write= "1" value= "0"/>
+	<cdl_map param= "PID-0000F421 pid= "F421" enable= "1" enable_read= "1" enable_write= "1" value= "0"/>
+	<cdl_map param= "PID-0000F026 pid= "F026" enable= "1" enable_read= "1" enable_write= "1" value= "0"/>
+	<cdl_map param= "PID-0000F2FD pid= "F2FD" enable= "1" enable_read= "1" enable_write= "1" value= "0"/>
+	<cdl_map param= "PID-00D10D30 pid= "D10D30" enable= "1" enable_read= "1" enable_write= "1" value= "0"/>
+	<cdl_map param= "PID-0000FC2E pid= "FC2E" enable= "1" enable_read= "1" enable_write= "1" value= "0"/>
+	<cdl_map param= "PID-0000F5D9 pid= "F5D9" enable= "1" enable_read= "1" enable_write= "1" value= "0"/>
+	<cdl_map param= "PID-00000018 pid= "18" enable= "1" enable_read= "1" enable_write= "1" value= "0"/>
+	<cdl_map param= "PID-0000FC6C pid= "FC6C" enable= "1" enable_read= "1" enable_write= "1" value= "0"/>
+	</module>
+</vbench>

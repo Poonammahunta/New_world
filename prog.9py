@@ -1,0 +1,15 @@
+#Name = prog.9.py
+
+def member(l):
+    F = False
+    for i in l:
+        F = True
+    print F
+
+l = ['a','b','c','d']
+i = raw_input("Enter the value: ")     
+member(l)
+
+
+
+    

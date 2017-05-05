@@ -1,0 +1,274 @@
+<!DOCTYPE html>
+<html>
+
+
+
+
+
+
+
+<head>
+        <title>
+                Welcome to VeGA SSO
+        </title>
+        <link rel="shortcut icon" type="image/x-icon" href="/statics/images/valeo/favicon.ico">
+        <meta name="title" content="Welcome to Valeo SSO - Intranet Authentication">
+
+        <link href="/statics/css/notif.css" type="text/css" rel="stylesheet" />
+        <script type="text/javascript" src="/statics/js/jquery-1.9.1.min.js"></script>
+        <script type="text/javascript" src="/statics/js/jquery-migrate-1.1.1.js"></script>
+        <script type="text/javascript" src="/statics/js/BrowserSupportedVersion.js"></script>
+        <script type="text/javascript" src="/statics/js/prototype-1.6.2-modified.js"></script>
+        <script type="text/javascript" src="/statics/js/browserVersion.js"></script>
+        <script type="text/javascript" src="/statics/js/auth.js"></script>
+
+        <script type="text/javascript">
+                function showLostPassword(){
+                   if (!is_mobile && !is_iphone)
+                           $('lost_password').setStyle({display:'block'});
+                }
+                writeValeoCSS('/statics');
+
+                        var defaultBtn = 'Submit';
+                        var elmCount = 0;
+                        var iframeCount = 0;
+
+                        /** submit form with default command button */
+                        function defaultSubmit() {
+                                LoginSubmit(defaultBtn);
+                        }
+
+                        /**
+                         * submit form with given button value
+                         *
+                         * @param value of button
+                         */
+                        function LoginSubmit(value) {
+                                aggSubmit();
+                                var hiddenFrm = document.forms['Login'];
+                                if (hiddenFrm != null) {
+                                        hiddenFrm.elements['IDButton'].value = value;
+                                        if (this.submitted) {
+                                                alert("The request is currently being processed");
+                                        } else {
+                                                //1:login 2:password
+                                                for(i=1;i<3;i++){
+                                                   //hiddenFrm.elements[i].value = escape(hiddenFrm.elements[i].value);
+                                                   hiddenFrm.elements[i].value = hiddenFrm.elements[i].value;
+                                                }
+                                                this.submitted = true;
+                                                hiddenFrm.submit();
+                                        }
+                                }
+                        }
+
+        </script>
+        <script type="text/javascript">
+                <!--// Empty script so IE5.0 Windows will draw table and button borders //-->
+                </script>
+                <style type="text/css">
+                <!-- .Style1 {color: #FFFFFF} -->
+                table {
+                        border-collapse:collapse;
+                        border: none;
+                }
+                table#login_table{}
+                .inner{width:100%}
+                .noborder{border:none}
+        </style>
+        <script type="text/javascript" async>
+          var _gaq = _gaq || [];
+          _gaq.push(['_setAccount', 'UA-10960356-1']);
+          _gaq.push(['_trackPageview']);
+
+          (function() {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+          })();
+        </script>
+</head>
+<body onLoad="showLostPassword();placeCursorOnFirstElm();">
+        <section id="login-section" style="margin-left: 10%;margin-right: 10%;box-shadow: 0px 2px 4px rgba(0,0,0,0.2);min-width: 900px;">
+                <div id="contenu_new" class="clear">
+                        <div id="header-table-questions">
+                                <table>
+                                        <tbody>
+                                                <tr>
+                                                        <td style="width:50%; vertical-align: bottom;">
+                                                                <div style="text-align:left;">
+                                                                        <img src="/statics/images/valeo/Valeo.png" width="89" height="39" border="0" alt="Valeo">
+                                                                </div>
+                                                        </td>
+                                                        <td style="width:50%;">
+                                                                <div style="text-align:right;">
+                                                                        <img src="/statics/images/valeo/logo_vega.png" width="130" border="0" align="middle" alt=                "VeGA">
+                                                                </div>
+                                                        </td>
+                                                </tr>
+                                        </tbody>
+                                </table>
+                        </div>
+                        <div class="warninglog notif_bar" style="width: 90%;margin:auto;margin-top: 1%;margin-bottom: 1%;">
+                                <h3>Browser not supported</h3>
+                                <p>The browser you are using is not supported by VeGA. Please contact your local IS Support.</p>
+                        </div>
+                        <div id="contenu_client" align="left" style="width:800px; margin-left:5%;margin-bottom: 2%;">
+                                <p>
+                                        <font color=red face="sans-serif">
+                                                <b>
+                                                        <strong>
+
+                                                        </strong>
+                                                </b>
+                                        </font>
+                                </p>
+                                <!-- Titre niveau 1 -->
+
+                                <br>
+
+                                <table id="login_table" class="no_background">
+                                        <tbody>
+                                                <tr>
+                                                        <td>
+
+
+
+                                                                                <script type="text/javascript"> elmCount++; </script>
+
+
+
+                                                                        <!-- end of tiledCallbacks -->
+
+                                                                                <script type="text/javascript"> elmCount++; </script>
+
+                                                                                        <!-- text box display -->
+
+
+                                                                                        <form name="frm1" action="blank" onSubmit="defaultSubmit(); return false;                " method="post" style="width: 240px;">
+
+                                                                                                <label for="IDToken1">&nbsp;</label>
+                                                                                                <!--AHA rfc-123-->
+                                                                                                <img id="human" src="/statics/images/ico/human.png" height="22" s                tyle = "float:left;" ><input type="text" name="IDToken1" id="IDToken1" placeholder="purnima.mahunta" class="TxtFld" style="margin:0px;width:210px;">
+                                                                                                <div style="width: 236px; text-align: right;">@valeo.com</div>
+                                                                                        </form>
+                                                                                        <!-- end of textBox -->
+
+
+
+                                                                        <!-- end of tiledCallbacks -->
+
+                                                                                <script type="text/javascript"> elmCount++; </script>
+
+
+                                                                                        <!-- password display -->
+
+
+                                                                                        <form name="frm2" action="blank" onSubmit="defaultSubmit(); return false;                " method="post" style="width: 240px;">
+
+                                                                                                <label for="IDToken2">&nbsp;</label>
+                                                                                                <img id="lock" src="/statics/images/ico/lock.png" height="22" sty                le = "float:left;" ><input type="password" name="IDToken2" id="IDToken2" placeholder="Papa#1234" class="TxtFld"  style="margin:0px;width:210px">
+
+                                                                                        </form>
+                                                                                        <!-- end of password -->
+
+
+                                                                        <!-- end of tiledCallbacks -->
+
+                                                                <!-- end of validContent -->
+
+
+
+                                                                <br>
+
+                                                                        <p id="lost_password" style="display:none; padding-bottom: 0px;margin-left:25px;width: 21                5px;">
+                                                                                <a href="/password/recovery">LOST PASSWORD?</a>
+                                                                        </p>
+
+
+
+
+
+
+                                                                                <script type="text/javascript">
+                                                                                        markupValeoButton('Log In',
+                                                                                                                          "javascript:LoginSubmit('Log In')");
+                                                                                </script>
+
+
+
+
+
+
+                                                        </td>
+                                                        <td>
+
+                                                                <div style="width: 100px;"></div></td>
+
+
+                                                        <td align="left" valign="top" width="70%" id="security_warning">
+                                                                <br>
+
+                                                                <script type="text/javascript">
+                                                                        if(document.getElementById("IDToken3") != null){
+                                                                                document.write("<strong style=\"color: #49788B; font-weight: bold;margin-left:20p                x;\">YOUR PASSWORD MUST :</strong><ul><li style=\"color: #4B4B4B;\">- contain at least 8 characters</li><li style=\"color: #4B4B4B;\">- allowed characters are :                 a-z A-Z 0-9 # $ ? & ( ) = </li>");
+                                                                                document.write("<li style=\"color: #4B4B4B;\">- contain each of the following att                ributes :<ul><li style=\"color: #4B4B4B;\">- a lower case character</li>");
+                                                                                document.write("<li style=\"color: #4B4B4B;\">- an upper case character</li><li s                tyle=\"color: #4B4B4B;\">- a numeric character</li></ul></li><li style=\"color: #4B4B4B;\">- be modified within 90 days</li>");
+                                                                                document.write("<li style=\"color: #4B4B4B;\">- be different from your 8 last pas                swords</li></ul>");
+                                                                        }
+                                                                </script>
+
+                                                        </td>
+                                                </tr>
+                                        </tbody>
+                                </table>
+                        </div>
+                </div>
+        </section>
+        <div id="footercop">© Copyright Valeo 2013</div>
+        <!-- /Contenu -->
+
+                <form   name="Login"  action="/sso/UI/Login"  method="post">
+                        <script type="text/javascript" language="javascript">
+                                if (elmCount != null) {
+                                        for (var i = 0; i < elmCount; i++) {
+                                                document.write("<input name=\"IDToken" + i + "\" type=\"hidden\">");
+                                        }
+                                        document.write("<input name=\"IDButton"  + "\" type=\"hidden\">");
+                                }
+                        </script>
+                        <input type="hidden" name="goto" value="aHR0cHM6Ly9yb2xlcy1kaXJlY3RvcnkuYXBwcy10ZXN0LnZhbGVvLmNvbTo0NDMvcm9sZV9leHBvcnRfdGhyb3VnaF91cmwvZ                G93bmxvYWQ=">
+                        <input type="hidden" name="encoded" value="true">
+                <input type="hidden" name="gx_charset" value="UTF-8"></form>
+
+</body>
+
+        <script type="text/javascript">
+                var url = String(window.location);
+                if(document.getElementById("IDToken3") == null && url.indexOf("auth=failure") != -1 ){
+                        var errorMessage = "Login Failed";
+                    if(url.indexOf("reason=locked") != -1){
+                        errorMessage = "This account has been locked for security reasons (wrong passwords used).<br>Please use your secret questions or contact                 your local helpdesk to unlock your account."
+                    }
+                        $("LoginFailed").innerHTML = "<font color=red face=\"sans-serif\"><b>"+errorMessage+"</b></font>";
+                }
+        </script>
+        <script type="text/javascript">
+                var buttons = document.getElementsByName("Login.Submit");
+                if(buttons[0].value == "YES") {
+                        document.getElementById('lost_password').innerHTML = "";
+                        var tbl = document.getElementById("login_table");
+                        var cell  = tbl.getElementsByTagName("td")
+                        var ps = cell[0].getElementsByTagName("p")
+                        var content = document.getElementById("contenu_client");
+                        var strongs = document.getElementsByTagName("strong")
+                        var brs = document.getElementsByTagName("br")
+                        cell[0].style.padding = "0px";
+                        ps[1].style.width = "";
+                        brs[0].style.display = "none";
+                        strongs[0].style.fontSize = "14px";
+                        strongs[0].style.fontWeight = "normal";
+                }
+                </script>
+
+</html>

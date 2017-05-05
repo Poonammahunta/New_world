@@ -1,0 +1,630 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<dataroot>
+  <Suppliers>
+    <App_ID>BW_REF</App_ID>
+    <Source_Inst>BW_MLB1</Source_Inst>
+    <Branch_Rep>H00</Branch_Rep>
+    <Reporting_Periode>2015M04</Reporting_Periode>
+    <Date>20150420</Date>
+    <Sup_ID>000041855</Sup_ID>
+    <Sup_Descr>ADIA</Sup_Descr>
+    <Sup_Addr_Line1>4 BD DE LA SOUS PREFECTURE</Sup_Addr_Line1>
+    <Sup_HouseNum />
+    <Sup_Addr_Line2 />
+    <Sup_Post_Code>63500</Sup_Post_Code>
+    <Sup_PO_Box />
+    <Sup_Zip_Post_Code />
+    <Sup_City>ISSOIRE</Sup_City>
+    <Sup_Region />
+    <Sup_Country_Code>FR</Sup_Country_Code>
+    <Sup_Phone />
+    <Sup_Duns_Code>569752723</Sup_Duns_Code>
+    <Sup_Creation_Date>20030404</Sup_Creation_Date>
+    <Sup_Owner />
+    <Sup_Owner_is_GLB>N</Sup_Owner_is_GLB>
+    <Sup_Is_Production>N</Sup_Is_Production>
+    <Sup_Is_Internal />
+    <Sup_Main_Com>C08</Sup_Main_Com>
+    <Sup_Is_Minority>N</Sup_Is_Minority>
+    <Sup_Is_Lev1>N</Sup_Is_Lev1>
+    <Sup_Is_Lev2>N</Sup_Is_Lev2>
+    <Sup_Is_Lev3>Y</Sup_Is_Lev3>
+    <Sup_Parent_L2>000002522</Sup_Parent_L2>
+    <Sup_Parent_L3>000002522</Sup_Parent_L3>
+    <Sup_Status>O</Sup_Status>
+  </Suppliers>
+  <Suppliers>
+    <App_ID>BW_REF</App_ID>
+    <Source_Inst>BW_MLB1</Source_Inst>
+    <Branch_Rep>H00</Branch_Rep>
+    <Reporting_Periode>2015M04</Reporting_Periode>
+    <Date>20150420</Date>
+    <Sup_ID>000021923</Sup_ID>
+    <Sup_Descr>(Duplicate 67698) LOWENDAL MASAI ESPAÑA S.A</Sup_Descr>
+    <Sup_Addr_Line1> Avda. de Brusela, 7 4ª pl.</Sup_Addr_Line1>
+    <Sup_HouseNum>0000000007</Sup_HouseNum>
+    <Sup_Addr_Line2 />
+    <Sup_Post_Code>28108</Sup_Post_Code>
+    <Sup_PO_Box />
+    <Sup_Zip_Post_Code />
+    <Sup_City> ALCOBENDAS</Sup_City>
+    <Sup_Region />
+    <Sup_Country_Code>ES</Sup_Country_Code>
+    <Sup_Phone>91 3192875</Sup_Phone>
+    <Sup_Duns_Code>460391238</Sup_Duns_Code>
+    <Sup_Creation_Date>20010629</Sup_Creation_Date>
+    <Sup_Owner>paqui.gonzalez</Sup_Owner>
+    <Sup_Owner_is_GLB>N</Sup_Owner_is_GLB>
+    <Sup_Is_Production>N</Sup_Is_Production>
+    <Sup_Is_Internal />
+    <Sup_Main_Com>C08</Sup_Main_Com>
+    <Sup_Is_Minority>N</Sup_Is_Minority>
+    <Sup_Is_Lev1>N</Sup_Is_Lev1>
+    <Sup_Is_Lev2>N</Sup_Is_Lev2>
+    <Sup_Is_Lev3>Y</Sup_Is_Lev3>
+    <Sup_Parent_L2>000067698</Sup_Parent_L2>
+    <Sup_Parent_L3>000067698</Sup_Parent_L3>
+    <Sup_Status>O</Sup_Status>
+  </Suppliers>
+  <Suppliers>
+    <App_ID>BW_REF</App_ID>
+    <Source_Inst>BW_MLB1</Source_Inst>
+    <Branch_Rep>H00</Branch_Rep>
+    <Reporting_Periode>2015M04</Reporting_Periode>
+    <Date>20150420</Date>
+    <Sup_ID>000176192</Sup_ID>
+    <Sup_Descr>Emerson and Renwick Limited</Sup_Descr>
+    <Sup_Addr_Line1>Peel Bank Works, Church</Sup_Addr_Line1>
+    <Sup_HouseNum />
+    <Sup_Addr_Line2 />
+    <Sup_Post_Code>BB54EF</Sup_Post_Code>
+    <Sup_PO_Box />
+    <Sup_Zip_Post_Code />
+    <Sup_City>Accrington</Sup_City>
+    <Sup_Region />
+    <Sup_Country_Code>GB</Sup_Country_Code>
+    <Sup_Phone>00000000441254872727</Sup_Phone>
+    <Sup_Duns_Code>000000000</Sup_Duns_Code>
+    <Sup_Creation_Date>20150223</Sup_Creation_Date>
+    <Sup_Owner>grzegorz.laton</Sup_Owner>
+    <Sup_Owner_is_GLB>N</Sup_Owner_is_GLB>
+    <Sup_Is_Production>N</Sup_Is_Production>
+    <Sup_Is_Internal />
+    <Sup_Main_Com>S056</Sup_Main_Com>
+    <Sup_Is_Minority>N</Sup_Is_Minority>
+    <Sup_Is_Lev1>Y</Sup_Is_Lev1>
+    <Sup_Is_Lev2>Y</Sup_Is_Lev2>
+    <Sup_Is_Lev3>Y</Sup_Is_Lev3>
+    <Sup_Parent_L2>000176192</Sup_Parent_L2>
+    <Sup_Parent_L3>000176192</Sup_Parent_L3>
+    <Sup_Status>O</Sup_Status>
+  </Suppliers>
+  <Suppliers>
+    <App_ID>BW_REF</App_ID>
+    <Source_Inst>BW_MLB1</Source_Inst>
+    <Branch_Rep>H00</Branch_Rep>
+    <Reporting_Periode>2015M04</Reporting_Periode>
+    <Date>20150420</Date>
+    <Sup_ID>000165089</Sup_ID>
+    <Sup_Descr>duplicated SUP148333 - Beijing Oriental Jicheng Co.,Ltd</Sup_Descr>
+    <Sup_Addr_Line1>22/F.,No.121,yanping Road,Shanghai</Sup_Addr_Line1>
+    <Sup_HouseNum />
+    <Sup_Addr_Line2 />
+    <Sup_Post_Code>200042</Sup_Post_Code>
+    <Sup_PO_Box />
+    <Sup_Zip_Post_Code />
+    <Sup_City>Shanghai</Sup_City>
+    <Sup_Region />
+    <Sup_Country_Code>CN</Sup_Country_Code>
+    <Sup_Phone />
+    <Sup_Duns_Code>000000000</Sup_Duns_Code>
+    <Sup_Creation_Date>20131216</Sup_Creation_Date>
+    <Sup_Owner>leo.zhu</Sup_Owner>
+    <Sup_Owner_is_GLB>N</Sup_Owner_is_GLB>
+    <Sup_Is_Production>N</Sup_Is_Production>
+    <Sup_Is_Internal />
+    <Sup_Main_Com>C08</Sup_Main_Com>
+    <Sup_Is_Minority>N</Sup_Is_Minority>
+    <Sup_Is_Lev1>Y</Sup_Is_Lev1>
+    <Sup_Is_Lev2>Y</Sup_Is_Lev2>
+    <Sup_Is_Lev3>Y</Sup_Is_Lev3>
+    <Sup_Parent_L2>000165089</Sup_Parent_L2>
+    <Sup_Parent_L3>000165089</Sup_Parent_L3>
+    <Sup_Status>O</Sup_Status>
+  </Suppliers>
+  <Suppliers>
+    <App_ID>BW_REF</App_ID>
+    <Source_Inst>BW_MLB1</Source_Inst>
+    <Branch_Rep>H00</Branch_Rep>
+    <Reporting_Periode>2015M04</Reporting_Periode>
+    <Date>20150420</Date>
+    <Sup_ID>000165151</Sup_ID>
+    <Sup_Descr>Pharmacie de l'Europe</Sup_Descr>
+    <Sup_Addr_Line1>Avenue du PDT Vincent Auriol</Sup_Addr_Line1>
+    <Sup_HouseNum>0000000001</Sup_HouseNum>
+    <Sup_Addr_Line2>C.Cial Hyper U</Sup_Addr_Line2>
+    <Sup_Post_Code>80100</Sup_Post_Code>
+    <Sup_PO_Box />
+    <Sup_Zip_Post_Code />
+    <Sup_City>ABBEVILLE</Sup_City>
+    <Sup_Region />
+    <Sup_Country_Code>FR</Sup_Country_Code>
+    <Sup_Phone>03.22.24.76.25</Sup_Phone>
+    <Sup_Duns_Code>502619745</Sup_Duns_Code>
+    <Sup_Creation_Date>20131218</Sup_Creation_Date>
+    <Sup_Owner>priscillia.goessens</Sup_Owner>
+    <Sup_Owner_is_GLB>N</Sup_Owner_is_GLB>
+    <Sup_Is_Production>N</Sup_Is_Production>
+    <Sup_Is_Internal />
+    <Sup_Main_Com>C08</Sup_Main_Com>
+    <Sup_Is_Minority>N</Sup_Is_Minority>
+    <Sup_Is_Lev1>Y</Sup_Is_Lev1>
+    <Sup_Is_Lev2>Y</Sup_Is_Lev2>
+    <Sup_Is_Lev3>Y</Sup_Is_Lev3>
+    <Sup_Parent_L2>000165151</Sup_Parent_L2>
+    <Sup_Parent_L3>000165151</Sup_Parent_L3>
+    <Sup_Status>O</Sup_Status>
+  </Suppliers>
+  <Suppliers>
+    <App_ID>BW_REF</App_ID>
+    <Source_Inst>BW_MLB1</Source_Inst>
+    <Branch_Rep>H00</Branch_Rep>
+    <Reporting_Periode>2015M04</Reporting_Periode>
+    <Date>20150420</Date>
+    <Sup_ID>000165169</Sup_ID>
+    <Sup_Descr>SHILLA TOWEL</Sup_Descr>
+    <Sup_Addr_Line1>30, Yongdam-ro, Gyeongju-si,</Sup_Addr_Line1>
+    <Sup_HouseNum />
+    <Sup_Addr_Line2 />
+    <Sup_Post_Code>780-954</Sup_Post_Code>
+    <Sup_PO_Box />
+    <Sup_Zip_Post_Code />
+    <Sup_City>Kyongju</Sup_City>
+    <Sup_Region />
+    <Sup_Country_Code>KR</Sup_Country_Code>
+    <Sup_Phone>05.47.73.50.09</Sup_Phone>
+    <Sup_Duns_Code>200072387</Sup_Duns_Code>
+    <Sup_Creation_Date>20131219</Sup_Creation_Date>
+    <Sup_Owner>daehyun.jin</Sup_Owner>
+    <Sup_Owner_is_GLB>N</Sup_Owner_is_GLB>
+    <Sup_Is_Production>N</Sup_Is_Production>
+    <Sup_Is_Internal />
+    <Sup_Main_Com>S056</Sup_Main_Com>
+    <Sup_Is_Minority>N</Sup_Is_Minority>
+    <Sup_Is_Lev1>Y</Sup_Is_Lev1>
+    <Sup_Is_Lev2>Y</Sup_Is_Lev2>
+    <Sup_Is_Lev3>Y</Sup_Is_Lev3>
+    <Sup_Parent_L2>000165169</Sup_Parent_L2>
+    <Sup_Parent_L3>000165169</Sup_Parent_L3>
+    <Sup_Status>O</Sup_Status>
+  </Suppliers>
+  <Suppliers>
+    <App_ID>BW_REF</App_ID>
+    <Source_Inst>BW_MLB1</Source_Inst>
+    <Branch_Rep>H00</Branch_Rep>
+    <Reporting_Periode>2015M04</Reporting_Periode>
+    <Date>20150420</Date>
+    <Sup_ID>000165148</Sup_ID>
+    <Sup_Descr>Centre d'Analyses Environnementales</Sup_Descr>
+    <Sup_Addr_Line1>rue Doyen Denis Leroy</Sup_Addr_Line1>
+    <Sup_HouseNum>0000000017</Sup_HouseNum>
+    <Sup_Addr_Line2 />
+    <Sup_Post_Code>35000</Sup_Post_Code>
+    <Sup_PO_Box />
+    <Sup_Zip_Post_Code />
+    <Sup_City>RENNES</Sup_City>
+    <Sup_Region />
+    <Sup_Country_Code>FR</Sup_Country_Code>
+    <Sup_Phone>02.99.33.57.00</Sup_Phone>
+    <Sup_Duns_Code>000000000</Sup_Duns_Code>
+    <Sup_Creation_Date>20131218</Sup_Creation_Date>
+    <Sup_Owner>priscillia.goessens</Sup_Owner>
+    <Sup_Owner_is_GLB>N</Sup_Owner_is_GLB>
+    <Sup_Is_Production>N</Sup_Is_Production>
+    <Sup_Is_Internal />
+    <Sup_Main_Com>C08</Sup_Main_Com>
+    <Sup_Is_Minority>N</Sup_Is_Minority>
+    <Sup_Is_Lev1>Y</Sup_Is_Lev1>
+    <Sup_Is_Lev2>Y</Sup_Is_Lev2>
+    <Sup_Is_Lev3>Y</Sup_Is_Lev3>
+    <Sup_Parent_L2>000165148</Sup_Parent_L2>
+    <Sup_Parent_L3>000165148</Sup_Parent_L3>
+    <Sup_Status>O</Sup_Status>
+  </Suppliers>
+  <Suppliers>
+    <App_ID>BW_REF</App_ID>
+    <Source_Inst>BW_MLB1</Source_Inst>
+    <Branch_Rep>H00</Branch_Rep>
+    <Reporting_Periode>2015M04</Reporting_Periode>
+    <Date>20150420</Date>
+    <Sup_ID>000166769</Sup_ID>
+    <Sup_Descr>Shanghai West Shanghai Anda Automobile Sales &amp; Service Co.,</Sup_Descr>
+    <Sup_Addr_Line1>No. 266 Nanan Rd. Jiading Dictrict, Shanghai</Sup_Addr_Line1>
+    <Sup_HouseNum />
+    <Sup_Addr_Line2 />
+    <Sup_Post_Code>201805</Sup_Post_Code>
+    <Sup_PO_Box />
+    <Sup_Zip_Post_Code />
+    <Sup_City>Shanghai</Sup_City>
+    <Sup_Region />
+    <Sup_Country_Code>CN</Sup_Country_Code>
+    <Sup_Phone />
+    <Sup_Duns_Code>000000000</Sup_Duns_Code>
+    <Sup_Creation_Date>20140219</Sup_Creation_Date>
+    <Sup_Owner>shi.he</Sup_Owner>
+    <Sup_Owner_is_GLB>N</Sup_Owner_is_GLB>
+    <Sup_Is_Production>N</Sup_Is_Production>
+    <Sup_Is_Internal />
+    <Sup_Main_Com>C08</Sup_Main_Com>
+    <Sup_Is_Minority>N</Sup_Is_Minority>
+    <Sup_Is_Lev1>Y</Sup_Is_Lev1>
+    <Sup_Is_Lev2>Y</Sup_Is_Lev2>
+    <Sup_Is_Lev3>Y</Sup_Is_Lev3>
+    <Sup_Parent_L2>000166769</Sup_Parent_L2>
+    <Sup_Parent_L3>000166769</Sup_Parent_L3>
+    <Sup_Status>O</Sup_Status>
+  </Suppliers>
+  <Suppliers>
+    <App_ID>BW_REF</App_ID>
+    <Source_Inst>BW_MLB1</Source_Inst>
+    <Branch_Rep>H00</Branch_Rep>
+    <Reporting_Periode>2015M04</Reporting_Periode>
+    <Date>20150420</Date>
+    <Sup_ID>000036379</Sup_ID>
+    <Sup_Descr>AJAX PRECISION</Sup_Descr>
+    <Sup_Addr_Line1>6290 NETHERHART ROAD</Sup_Addr_Line1>
+    <Sup_HouseNum />
+    <Sup_Addr_Line2 />
+    <Sup_Post_Code>L5T1B7</Sup_Post_Code>
+    <Sup_PO_Box />
+    <Sup_Zip_Post_Code />
+    <Sup_City>MISSISSAUGA</Sup_City>
+    <Sup_Region>ON</Sup_Region>
+    <Sup_Country_Code>CA</Sup_Country_Code>
+    <Sup_Phone />
+    <Sup_Duns_Code>249373697</Sup_Duns_Code>
+    <Sup_Creation_Date>20020909</Sup_Creation_Date>
+    <Sup_Owner />
+    <Sup_Owner_is_GLB>N</Sup_Owner_is_GLB>
+    <Sup_Is_Production>N</Sup_Is_Production>
+    <Sup_Is_Internal />
+    <Sup_Main_Com>C08</Sup_Main_Com>
+    <Sup_Is_Minority>N</Sup_Is_Minority>
+    <Sup_Is_Lev1>Y</Sup_Is_Lev1>
+    <Sup_Is_Lev2>Y</Sup_Is_Lev2>
+    <Sup_Is_Lev3>Y</Sup_Is_Lev3>
+    <Sup_Parent_L2>000036379</Sup_Parent_L2>
+    <Sup_Parent_L3>000036379</Sup_Parent_L3>
+    <Sup_Status>O</Sup_Status>
+  </Suppliers>
+  <Suppliers>
+    <App_ID>BW_REF</App_ID>
+    <Source_Inst>BW_MLB1</Source_Inst>
+    <Branch_Rep>H00</Branch_Rep>
+    <Reporting_Periode>2015M04</Reporting_Periode>
+    <Date>20150420</Date>
+    <Sup_ID>000036577</Sup_ID>
+    <Sup_Descr>MATTON PRECISION MFG. INC.</Sup_Descr>
+    <Sup_Addr_Line1>2408 SO. 14TH</Sup_Addr_Line1>
+    <Sup_HouseNum />
+    <Sup_Addr_Line2 />
+    <Sup_Post_Code>61938</Sup_Post_Code>
+    <Sup_PO_Box />
+    <Sup_Zip_Post_Code />
+    <Sup_City>MATTOON</Sup_City>
+    <Sup_Region>IL</Sup_Region>
+    <Sup_Country_Code>US</Sup_Country_Code>
+    <Sup_Phone>217-235-6000</Sup_Phone>
+    <Sup_Duns_Code>071102076</Sup_Duns_Code>
+    <Sup_Creation_Date>20020914</Sup_Creation_Date>
+    <Sup_Owner />
+    <Sup_Owner_is_GLB>N</Sup_Owner_is_GLB>
+    <Sup_Is_Production>N</Sup_Is_Production>
+    <Sup_Is_Internal />
+    <Sup_Main_Com>C08</Sup_Main_Com>
+    <Sup_Is_Minority>N</Sup_Is_Minority>
+    <Sup_Is_Lev1>N</Sup_Is_Lev1>
+    <Sup_Is_Lev2>N</Sup_Is_Lev2>
+    <Sup_Is_Lev3>Y</Sup_Is_Lev3>
+    <Sup_Parent_L2>000048502</Sup_Parent_L2>
+    <Sup_Parent_L3>000048502</Sup_Parent_L3>
+    <Sup_Status>O</Sup_Status>
+  </Suppliers>
+  <Suppliers>
+    <App_ID>BW_REF</App_ID>
+    <Source_Inst>BW_MLB1</Source_Inst>
+    <Branch_Rep>H00</Branch_Rep>
+    <Reporting_Periode>2015M04</Reporting_Periode>
+    <Date>20150420</Date>
+    <Sup_ID>000036635</Sup_ID>
+    <Sup_Descr>MATTOON PRECISION MANUFACTURING INC.</Sup_Descr>
+    <Sup_Addr_Line1>2408 S. 14TH STREET</Sup_Addr_Line1>
+    <Sup_HouseNum />
+    <Sup_Addr_Line2 />
+    <Sup_Post_Code>61938</Sup_Post_Code>
+    <Sup_PO_Box />
+    <Sup_Zip_Post_Code />
+    <Sup_City>MATTOON</Sup_City>
+    <Sup_Region>IL</Sup_Region>
+    <Sup_Country_Code>US</Sup_Country_Code>
+    <Sup_Phone>217-235-6000</Sup_Phone>
+    <Sup_Duns_Code>612736512</Sup_Duns_Code>
+    <Sup_Creation_Date>20020916</Sup_Creation_Date>
+    <Sup_Owner />
+    <Sup_Owner_is_GLB>N</Sup_Owner_is_GLB>
+    <Sup_Is_Production>N</Sup_Is_Production>
+    <Sup_Is_Internal />
+    <Sup_Main_Com>C08</Sup_Main_Com>
+    <Sup_Is_Minority>N</Sup_Is_Minority>
+    <Sup_Is_Lev1>Y</Sup_Is_Lev1>
+    <Sup_Is_Lev2>Y</Sup_Is_Lev2>
+    <Sup_Is_Lev3>Y</Sup_Is_Lev3>
+    <Sup_Parent_L2>000036635</Sup_Parent_L2>
+    <Sup_Parent_L3>000036635</Sup_Parent_L3>
+    <Sup_Status>O</Sup_Status>
+  </Suppliers>
+  <Suppliers>
+    <App_ID>BW_REF</App_ID>
+    <Source_Inst>BW_MLB1</Source_Inst>
+    <Branch_Rep>H00</Branch_Rep>
+    <Reporting_Periode>2015M04</Reporting_Periode>
+    <Date>20150420</Date>
+    <Sup_ID>000036874</Sup_ID>
+    <Sup_Descr>EUROPLAST</Sup_Descr>
+    <Sup_Addr_Line1>VIA SPARTCACO 23</Sup_Addr_Line1>
+    <Sup_HouseNum />
+    <Sup_Addr_Line2 />
+    <Sup_Post_Code>0000000000</Sup_Post_Code>
+    <Sup_PO_Box />
+    <Sup_Zip_Post_Code />
+    <Sup_City>MILAN</Sup_City>
+    <Sup_Region />
+    <Sup_Country_Code>IT</Sup_Country_Code>
+    <Sup_Phone />
+    <Sup_Duns_Code>446078545</Sup_Duns_Code>
+    <Sup_Creation_Date>20020925</Sup_Creation_Date>
+    <Sup_Owner />
+    <Sup_Owner_is_GLB>N</Sup_Owner_is_GLB>
+    <Sup_Is_Production>N</Sup_Is_Production>
+    <Sup_Is_Internal />
+    <Sup_Main_Com>C08</Sup_Main_Com>
+    <Sup_Is_Minority>N</Sup_Is_Minority>
+    <Sup_Is_Lev1>Y</Sup_Is_Lev1>
+    <Sup_Is_Lev2>Y</Sup_Is_Lev2>
+    <Sup_Is_Lev3>Y</Sup_Is_Lev3>
+    <Sup_Parent_L2>000036874</Sup_Parent_L2>
+    <Sup_Parent_L3>000036874</Sup_Parent_L3>
+    <Sup_Status>O</Sup_Status>
+  </Suppliers>
+  <Suppliers>
+    <App_ID>BW_REF</App_ID>
+    <Source_Inst>BW_MLB1</Source_Inst>
+    <Branch_Rep>H00</Branch_Rep>
+    <Reporting_Periode>2015M04</Reporting_Periode>
+    <Date>20150420</Date>
+    <Sup_ID>000036878</Sup_ID>
+    <Sup_Descr>SONU SALES CORPORATION</Sup_Descr>
+    <Sup_Addr_Line1>CHUNA MANDE</Sup_Addr_Line1>
+    <Sup_HouseNum />
+    <Sup_Addr_Line2 />
+    <Sup_Post_Code>0000000000</Sup_Post_Code>
+    <Sup_PO_Box />
+    <Sup_Zip_Post_Code />
+    <Sup_City>PAHAR GANJ</Sup_City>
+    <Sup_Region />
+    <Sup_Country_Code>IN</Sup_Country_Code>
+    <Sup_Phone />
+    <Sup_Duns_Code>916765196</Sup_Duns_Code>
+    <Sup_Creation_Date>20020925</Sup_Creation_Date>
+    <Sup_Owner />
+    <Sup_Owner_is_GLB>N</Sup_Owner_is_GLB>
+    <Sup_Is_Production>N</Sup_Is_Production>
+    <Sup_Is_Internal />
+    <Sup_Main_Com>C08</Sup_Main_Com>
+    <Sup_Is_Minority>N</Sup_Is_Minority>
+    <Sup_Is_Lev1>Y</Sup_Is_Lev1>
+    <Sup_Is_Lev2>Y</Sup_Is_Lev2>
+    <Sup_Is_Lev3>Y</Sup_Is_Lev3>
+    <Sup_Parent_L2>000036878</Sup_Parent_L2>
+    <Sup_Parent_L3>000036878</Sup_Parent_L3>
+    <Sup_Status>O</Sup_Status>
+  </Suppliers>
+  <Suppliers>
+    <App_ID>BW_REF</App_ID>
+    <Source_Inst>BW_MLB1</Source_Inst>
+    <Branch_Rep>H00</Branch_Rep>
+    <Reporting_Periode>2015M04</Reporting_Periode>
+    <Date>20150420</Date>
+    <Sup_ID>000036882</Sup_ID>
+    <Sup_Descr>BLUE WATER AUTOMOTIVE SYSTEMS, INC</Sup_Descr>
+    <Sup_Addr_Line1>1515 Busha Highway</Sup_Addr_Line1>
+    <Sup_HouseNum />
+    <Sup_Addr_Line2 />
+    <Sup_Post_Code>48040</Sup_Post_Code>
+    <Sup_PO_Box />
+    <Sup_Zip_Post_Code />
+    <Sup_City>MARYSVILLE</Sup_City>
+    <Sup_Region>MI</Sup_Region>
+    <Sup_Country_Code>US</Sup_Country_Code>
+    <Sup_Phone>810 364 4550</Sup_Phone>
+    <Sup_Duns_Code>005338389</Sup_Duns_Code>
+    <Sup_Creation_Date>20020926</Sup_Creation_Date>
+    <Sup_Owner>marjorie.briquet</Sup_Owner>
+    <Sup_Owner_is_GLB>Y</Sup_Owner_is_GLB>
+    <Sup_Is_Production>Y</Sup_Is_Production>
+    <Sup_Is_Internal />
+    <Sup_Main_Com>S016</Sup_Main_Com>
+    <Sup_Is_Minority>N</Sup_Is_Minority>
+    <Sup_Is_Lev1>Y</Sup_Is_Lev1>
+    <Sup_Is_Lev2>Y</Sup_Is_Lev2>
+    <Sup_Is_Lev3>Y</Sup_Is_Lev3>
+    <Sup_Parent_L2>000036882</Sup_Parent_L2>
+    <Sup_Parent_L3>000036882</Sup_Parent_L3>
+    <Sup_Status>O</Sup_Status>
+  </Suppliers>
+  <Suppliers>
+    <App_ID>BW_REF</App_ID>
+    <Source_Inst>BW_MLB1</Source_Inst>
+    <Branch_Rep>H00</Branch_Rep>
+    <Reporting_Periode>2015M04</Reporting_Periode>
+    <Date>20150420</Date>
+    <Sup_ID>000036914</Sup_ID>
+    <Sup_Descr>SODIFLEX</Sup_Descr>
+    <Sup_Addr_Line1>????????????????????????????????</Sup_Addr_Line1>
+    <Sup_HouseNum />
+    <Sup_Addr_Line2 />
+    <Sup_Post_Code>000000000</Sup_Post_Code>
+    <Sup_PO_Box />
+    <Sup_Zip_Post_Code />
+    <Sup_City>NONE</Sup_City>
+    <Sup_Region />
+    <Sup_Country_Code>IT</Sup_Country_Code>
+    <Sup_Phone />
+    <Sup_Duns_Code>999499859</Sup_Duns_Code>
+    <Sup_Creation_Date>20020926</Sup_Creation_Date>
+    <Sup_Owner />
+    <Sup_Owner_is_GLB>N</Sup_Owner_is_GLB>
+    <Sup_Is_Production>N</Sup_Is_Production>
+    <Sup_Is_Internal />
+    <Sup_Main_Com>C08</Sup_Main_Com>
+    <Sup_Is_Minority>N</Sup_Is_Minority>
+    <Sup_Is_Lev1>Y</Sup_Is_Lev1>
+    <Sup_Is_Lev2>Y</Sup_Is_Lev2>
+    <Sup_Is_Lev3>Y</Sup_Is_Lev3>
+    <Sup_Parent_L2>000036914</Sup_Parent_L2>
+    <Sup_Parent_L3>000036914</Sup_Parent_L3>
+    <Sup_Status>O</Sup_Status>
+  </Suppliers>
+  <Suppliers>
+    <App_ID>BW_REF</App_ID>
+    <Source_Inst>BW_MLB1</Source_Inst>
+    <Branch_Rep>H00</Branch_Rep>
+    <Reporting_Periode>2015M04</Reporting_Periode>
+    <Date>20150420</Date>
+    <Sup_ID>000036935</Sup_ID>
+    <Sup_Descr>CARLISLE ENGINEERED PRODUCTS</Sup_Descr>
+    <Sup_Addr_Line1>119 East Dayton Street</Sup_Addr_Line1>
+    <Sup_HouseNum />
+    <Sup_Addr_Line2 />
+    <Sup_Post_Code>45381</Sup_Post_Code>
+    <Sup_PO_Box />
+    <Sup_Zip_Post_Code />
+    <Sup_City>WEST ALEXANDRIA</Sup_City>
+    <Sup_Region>AL</Sup_Region>
+    <Sup_Country_Code>US</Sup_Country_Code>
+    <Sup_Phone />
+    <Sup_Duns_Code>037401259</Sup_Duns_Code>
+    <Sup_Creation_Date>20020926</Sup_Creation_Date>
+    <Sup_Owner>francois.vermeulen</Sup_Owner>
+    <Sup_Owner_is_GLB>Y</Sup_Owner_is_GLB>
+    <Sup_Is_Production>N</Sup_Is_Production>
+    <Sup_Is_Internal />
+    <Sup_Main_Com>C08</Sup_Main_Com>
+    <Sup_Is_Minority>N</Sup_Is_Minority>
+    <Sup_Is_Lev1>N</Sup_Is_Lev1>
+    <Sup_Is_Lev2>N</Sup_Is_Lev2>
+    <Sup_Is_Lev3>Y</Sup_Is_Lev3>
+    <Sup_Parent_L2>000001226</Sup_Parent_L2>
+    <Sup_Parent_L3>000001226</Sup_Parent_L3>
+    <Sup_Status>O</Sup_Status>
+  </Suppliers>
+  <Suppliers>
+    <App_ID>BW_REF</App_ID>
+    <Source_Inst>BW_MLB1</Source_Inst>
+    <Branch_Rep>H00</Branch_Rep>
+    <Reporting_Periode>2015M04</Reporting_Periode>
+    <Date>20150420</Date>
+    <Sup_ID>000052029</Sup_ID>
+    <Sup_Descr>KIRCHHOFF HALVER</Sup_Descr>
+    <Sup_Addr_Line1>Oststrasse 1</Sup_Addr_Line1>
+    <Sup_HouseNum />
+    <Sup_Addr_Line2 />
+    <Sup_Post_Code>58553</Sup_Post_Code>
+    <Sup_PO_Box />
+    <Sup_Zip_Post_Code />
+    <Sup_City>Halver</Sup_City>
+    <Sup_Region />
+    <Sup_Country_Code>DE</Sup_Country_Code>
+    <Sup_Phone />
+    <Sup_Duns_Code>316607191</Sup_Duns_Code>
+    <Sup_Creation_Date>20040430</Sup_Creation_Date>
+    <Sup_Owner />
+    <Sup_Owner_is_GLB>N</Sup_Owner_is_GLB>
+    <Sup_Is_Production>Y</Sup_Is_Production>
+    <Sup_Is_Internal />
+    <Sup_Main_Com>S045</Sup_Main_Com>
+    <Sup_Is_Minority>N</Sup_Is_Minority>
+    <Sup_Is_Lev1>N</Sup_Is_Lev1>
+    <Sup_Is_Lev2>N</Sup_Is_Lev2>
+    <Sup_Is_Lev3>Y</Sup_Is_Lev3>
+    <Sup_Parent_L2>000047146</Sup_Parent_L2>
+    <Sup_Parent_L3>000047146</Sup_Parent_L3>
+    <Sup_Status>O</Sup_Status>
+  </Suppliers>
+  <Suppliers>
+    <App_ID>BW_REF</App_ID>
+    <Source_Inst>BW_MLB1</Source_Inst>
+    <Branch_Rep>H00</Branch_Rep>
+    <Reporting_Periode>2015M04</Reporting_Periode>
+    <Date>20150420</Date>
+    <Sup_ID>000052037</Sup_ID>
+    <Sup_Descr>DISTRIPACK</Sup_Descr>
+    <Sup_Addr_Line1>71 BD MENDES FRANCE</Sup_Addr_Line1>
+    <Sup_HouseNum />
+    <Sup_Addr_Line2 />
+    <Sup_Post_Code>59150</Sup_Post_Code>
+    <Sup_PO_Box />
+    <Sup_Zip_Post_Code />
+    <Sup_City>WATTRELOS</Sup_City>
+    <Sup_Region />
+    <Sup_Country_Code>FR</Sup_Country_Code>
+    <Sup_Phone>03.28.09.99.99</Sup_Phone>
+    <Sup_Duns_Code>739098408</Sup_Duns_Code>
+    <Sup_Creation_Date>20040503</Sup_Creation_Date>
+    <Sup_Owner>denis.tanfin</Sup_Owner>
+    <Sup_Owner_is_GLB>N</Sup_Owner_is_GLB>
+    <Sup_Is_Production>N</Sup_Is_Production>
+    <Sup_Is_Internal />
+    <Sup_Main_Com>C08</Sup_Main_Com>
+    <Sup_Is_Minority>N</Sup_Is_Minority>
+    <Sup_Is_Lev1>Y</Sup_Is_Lev1>
+    <Sup_Is_Lev2>Y</Sup_Is_Lev2>
+    <Sup_Is_Lev3>Y</Sup_Is_Lev3>
+    <Sup_Parent_L2>000052037</Sup_Parent_L2>
+    <Sup_Parent_L3>000052037</Sup_Parent_L3>
+    <Sup_Status>O</Sup_Status>
+  </Suppliers>
+  <Suppliers>
+    <App_ID>BW_REF</App_ID>
+    <Source_Inst>BW_MLB1</Source_Inst>
+    <Branch_Rep>H00</Branch_Rep>
+    <Reporting_Periode>2015M04</Reporting_Periode>
+    <Date>20150420</Date>
+    <Sup_ID>000052043</Sup_ID>
+    <Sup_Descr>PLASTRON PRECISION CO., LTD</Sup_Descr>
+    <Sup_Addr_Line1>2F No.1, Lane 11</Sup_Addr_Line1>
+    <Sup_HouseNum />
+    <Sup_Addr_Line2>TZU-CHIANG</Sup_Addr_Line2>
+    <Sup_Post_Code>000</Sup_Post_Code>
+    <Sup_PO_Box />
+    <Sup_Zip_Post_Code />
+    <Sup_City>ST. TU-CHENG CITY</Sup_City>
+    <Sup_Region />
+    <Sup_Country_Code>TW</Sup_Country_Code>
+    <Sup_Phone />
+    <Sup_Duns_Code>328913129</Sup_Duns_Code>
+    <Sup_Creation_Date>20040503</Sup_Creation_Date>
+    <Sup_Owner />
+    <Sup_Owner_is_GLB>N</Sup_Owner_is_GLB>
+    <Sup_Is_Production>N</Sup_Is_Production>
+    <Sup_Is_Internal />
+    <Sup_Main_Com>C08</Sup_Main_Com>
+    <Sup_Is_Minority>N</Sup_Is_Minority>
+    <Sup_Is_Lev1>Y</Sup_Is_Lev1>
+    <Sup_Is_Lev2>Y</Sup_Is_Lev2>
+    <Sup_Is_Lev3>Y</Sup_Is_Lev3>
+    <Sup_Parent_L2>000052043</Sup_Parent_L2>
+    <Sup_Parent_L3>000052043</Sup_Parent_L3>
+    <Sup_Status>O</Sup_Status>
+  </Suppliers>
+</dataroot>

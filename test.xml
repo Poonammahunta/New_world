@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<dataroot>
+  <Suppliers>
+    <App_ID>BW_REF</App_ID>
+	<Source_Inst>BW_MLB1</Source_Inst>
+    <Branch_Rep>H00</Branch_Rep>
+    <Reporting_Periode>2015M04</Reporting_Periode>
+    <Date>20150420</Date>
+    <Sup_ID>000041855</Sup_ID>
+    <Sup_Descr>ADIA</Sup_Descr>
+    <Sup_Addr_Line1>4 BD DE LA SOUS PREFECTURE</Sup_Addr_Line1>
+    <Sup_HouseNum />
+    <Sup_Addr_Line2 />
+    <Sup_Post_Code>63500</Sup_Post_Code>
+    <Sup_PO_Box />
+    <Sup_Zip_Post_Code />
+    <Sup_City>ISSOIRE</Sup_City>
+    <Sup_Region />
+    <Sup_Country_Code>FR</Sup_Country_Code>
+    <Sup_Phone />
+    <Sup_Duns_Code>569752723</Sup_Duns_Code>
+    <Sup_Creation_Date>20030404</Sup_Creation_Date>
+    <Sup_Owner />
+    <Sup_Owner_is_GLB>N</Sup_Owner_is_GLB>
+    <Sup_Is_Production>N</Sup_Is_Production>
+    <Sup_Is_Internal />
+    <Sup_Main_Com>C08</Sup_Main_Com>
+    <Sup_Is_Minority>N</Sup_Is_Minority>
+    <Sup_Is_Lev1>N</Sup_Is_Lev1>
+    <Sup_Is_Lev2>N</Sup_Is_Lev2>
+    <Sup_Is_Lev3>Y</Sup_Is_Lev3>
+    <Sup_Parent_L2>000002522</Sup_Parent_L2>
+    <Sup_Parent_L3>000002522</Sup_Parent_L3>
+    <Sup_Status>O</Sup_Status>
+  </Suppliers>
+  <Suppliers>
+    <App_ID>BW_REF</App_ID>
+    <Source_Inst>BW_MLB1</Source_Inst>
+    <Branch_Rep>H00</Branch_Rep>
+    <Reporting_Periode>2015M04</Reporting_Periode>
+    <Date>20150420</Date>
+    <Sup_ID>000021923</Sup_ID>
+    <Sup_Descr>(Duplicate 67698) LOWENDAL MASAI ESPAÑA S.A</Sup_Descr>
+    <Sup_Addr_Line1> Avda. de Brusela, 7 4ª pl.</Sup_Addr_Line1>
+    <Sup_HouseNum>0000000007</Sup_HouseNum>
+    <Sup_Addr_Line2 />
+    <Sup_Post_Code>28108</Sup_Post_Code>
+    <Sup_PO_Box />
+    <Sup_Zip_Post_Code />
+    <Sup_City> ALCOBENDAS</Sup_City>
+    <Sup_Region />
+    <Sup_Country_Code>ES</Sup_Country_Code>
+    <Sup_Phone>91 3192875</Sup_Phone>
+    <Sup_Duns_Code>460391238</Sup_Duns_Code>
+    <Sup_Creation_Date>20010629</Sup_Creation_Date>
+    <Sup_Owner>paqui.gonzalez</Sup_Owner>
+    <Sup_Owner_is_GLB>N</Sup_Owner_is_GLB>
+    <Sup_Is_Production>N</Sup_Is_Production>
+    <Sup_Is_Internal />
+    <Sup_Main_Com>C08</Sup_Main_Com>
+    <Sup_Is_Minority>N</Sup_Is_Minority>
+    <Sup_Is_Lev1>N</Sup_Is_Lev1>
+    <Sup_Is_Lev2>N</Sup_Is_Lev2>
+    <Sup_Is_Lev3>Y</Sup_Is_Lev3>
+    <Sup_Parent_L2>000067698</Sup_Parent_L2>
+    <Sup_Parent_L3>000067698</Sup_Parent_L3>
+    <Sup_Status>O</Sup_Status>
+  </Suppliers>
+</dataroot>  

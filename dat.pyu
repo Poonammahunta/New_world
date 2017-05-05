@@ -1,0 +1,17 @@
+import datetime
+import calendar
+from datetime import timedelta
+
+target = raw_input("Enter the format %Y,%W: " )
+p = datetime.datetime.strptime(target,"%Y,%W").strrftime("%d-%m-%Y")
+
+def dat(p):
+    st = calendar.day_name[p.weekday()]
+    if st == "Thursday":
+        pd = p = timedelta(days=3)
+
+
+    return pd
+
+print dat(p)
+        
