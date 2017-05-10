@@ -5,4 +5,6 @@ def foo():
         if i > t:
             t = i
         print i
-        
+
+
+foo()        
